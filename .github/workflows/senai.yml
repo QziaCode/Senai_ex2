@@ -1,7 +1,6 @@
 name: Hello Pipeline
 
-on: [push]
-
+on: [ push ]
 jobs:
   Mensagem:
      runs-on: ubuntu-latest
